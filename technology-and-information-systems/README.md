@@ -33,7 +33,7 @@ This video is made from the UTM Digital visit and virtual talk.
 <summary>Reflection:</summary>
 </details>
 
-### Assignment 3 : [Academic Report](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/technology-and-information-systems/Report_on_Industries_Talk_2a_System_Development_%40_Credence_TM_Subsidiary.pdf)
+### Assignment 3 : [Academic Report](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/technology-and-information-systems/Report%20on%20Industries%20Talk%202a%20System%20Development%20%40%20Credence%20(TM%20Subsidiary).pdf)
 This report is about the summarization of the System Development @ Credence(TM Subsidiary) industry virtual talk.
 <details>
 <summary>Reflection:</summary>
