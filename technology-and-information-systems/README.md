@@ -1,5 +1,5 @@
 # Technology and Information System
-This course will introduce students to various aspects of IS/IT such as hardware, software, network and communications and it will be used at home and work. Students will learn basic skills in handling PC installation and productivity tools via practical labs. This class also conducts industry visits and talks as a part of work-based learning to expose students to a real working environment. The student also needs to briefly explore the requirements and job specifications for a career in IT.
+This course will introduce students to various aspects of IS/IT such as hardware, software, network and communications and it will be used at home and work. Students will learn basic skills in handling PC installation and productivity tools via practical labs. Industry visit and talk will be conducted as a part of work-based learning to expose students to a real working environment. The student also will be given the opportunities to explore the requirements and job specifications for a career in IT.
 
 ## Course Content
 * Chapter 1 : Emerging Technology in Information Communication Technology (ICT)
