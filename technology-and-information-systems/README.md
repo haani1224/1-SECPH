@@ -47,7 +47,6 @@ This newsletter is based on our industry visit at Petronas and Huawei at Kuala L
 <summary>Reflection:</summary>
 </details>
 
-
 ## Lab Work
 * PC Assemble (22/11/2023)
 <img src=https://github.com/haani1224/UTM-Year-1-Semester-1/assets/148327353/ae10d504-411c-48c0-8bf7-c05e2be93e87 alt="PC Assemble 1" width="360" height="360">
@@ -58,10 +57,12 @@ From this lab, I now know how to disassemble and re-assemble PC component and I 
 
 ## Design Thinking Project
 This design thinking project is where we practice our critical thinking, problem-solving and collaboration skills with others to solve the problem related to our topics which is Computer Hardware. For this project, we as a group have to write a report, edit a video, and build a prototype. After completing the project task, we are given additional task where we need to present our design thinking flow and also explaing our prototype function to our class.
-* [Report]
+* [Report](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/technology-and-information-systems/Design%20Thinking%20Report%20(Computer%20Hardware)%20Group%207.pdf)
 * [Video](https://youtu.be/14FR-S98dzE)
-* Our Prototype : <br>
-<img src=https://github.com/haani1224/UTM-Year-1-Semester-1/assets/148327353/ae10d504-411c-48c0-8bf7-c05e2be93e87 alt="PC Assemble 1" width="360" height="360">
+* [Prototype](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/technology-and-information-systems/Prototype%20Watch.com%20(Group%207).mp4)
+<details>
+<summary>Reflection:</summary>
+</details>
 
 
 
