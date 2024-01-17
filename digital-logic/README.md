@@ -26,7 +26,7 @@ Tap [here](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/digital-
 ### Lab 3 : Sequential Logic Circuit (Counter)
 <img src=https://github.com/haani1224/UTM-Year-1-Semester-1/assets/148327353/34d2e5d6-8adc-4f9d-9d9d-beec63bf6a3a alt="Lab 3" width="260" height="450"><br>
 Tap [here](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/digital-logic/Lab%203%20Digital%20Logic%2011-01-24.pdf) to see lab report for lab 3.<br>
-Tap [here]() to watch Lab 3 result.
+Tap [here](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/digital-logic/Lab%203%20Result%20Demo.mp4) to watch Lab 3 result.
 
 
 
