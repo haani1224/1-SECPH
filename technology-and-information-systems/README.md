@@ -31,13 +31,13 @@ There is so much knowledge that I have gain from the career development and indu
 This video is made from the UTM Digital visit and virtual talk.
 <details>
 <summary>Reflection:</summary>
-</details>
+What I have gain from the UTM Digital visit and virtual talk are the UTM Digital is controlling over the network in UTM flawlessly. They provided so many services for students such as UTMID, official email account and Microsoft 365. Besides, these activities help me understand how the technology and devices work in real life and what issues that they have in the system development or technology upgrading and also what they do to solve the problem.</details>
 
 ### Assignment 3 : [Academic Report](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/technology-and-information-systems/Report%20on%20Industries%20Talk%202a%20System%20Development%20%40%20Credence%20(TM%20Subsidiary).pdf)
 This report is about the summarization of the System Development @ Credence(TM Subsidiary) industry virtual talk.
 <details>
 <summary>Reflection:</summary>
-</details>
+After joining the Credence industry talk, I can say that I am more motivated to explore more things related to Information Communication Technology field. For example, in terms of programming language, I was introduced to the the Bash Syntax that was used by their data engineer for Cloud-based client's data. Therefore, I was intrigued how Bash Syntax is used for that purpose and what is the difference between Bash Syntax and other programming language.</details>
 
 ### Assignment 4 : [Petronas and Huawei Newsletter](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/technology-and-information-systems/Newsletter%20on%20Industrial%20Visit%20Petronas-Huawei.pdf)
 This newsletter is based on our industry visit at Petronas and Huawei at Kuala Lumpur.<br>
@@ -45,7 +45,7 @@ This newsletter is based on our industry visit at Petronas and Huawei at Kuala L
 <img src=https://github.com/haani1224/UTM-Year-1-Semester-1/assets/148327353/7b5ccda6-127e-4567-b952-41ae97937483 alt="Huawei" width="260" height="260">
 <details>
 <summary>Reflection:</summary>
-</details>
+I was really satisfied with these visits because it gave me the opportunities to meet with Petronas's head of Software Engineering and Infrastructure Services department and learn more about careers in ICT field but I was regreted that the time for the visit is limited and very short. The most significant thing I learned, in my opinion, is how crucial it is to be able to do self-learning since technology is always advancing and getting better over time, and new technology is continually coming out.</details>
 
 ## Lab Work
 * PC Assemble (22/11/2023)
@@ -58,8 +58,9 @@ From this lab, I now know how to disassemble and re-assemble PC component and I 
 ## Design Thinking Project
 This design thinking project is where we practice our critical thinking, problem-solving and collaboration skills with others to solve the problem related to our topics which is Computer Hardware. For this project, we as a group have to write a report, edit a video, and build a prototype. After completing the project task, we are given additional task where we need to present our design thinking flow and also explaing our prototype function to our class.
 * [Report](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/technology-and-information-systems/Design%20Thinking%20Report%20(Computer%20Hardware)%20Group%207.pdf)
-* [Video](https://youtu.be/14FR-S98dzE)
 * [Prototype](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/technology-and-information-systems/Prototype%20Watch.com%20(Group%207).mp4)
+* [Video](https://youtu.be/14FR-S98dzE)
+* [Presentation](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/technology-and-information-systems/Presentation%20Design%20Thinking%20(Computer%20Hardware)%20-%20Group%207.pdf)
 <details>
 <summary>Reflection:</summary>
 </details>
