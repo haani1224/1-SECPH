@@ -1,5 +1,5 @@
-# UTM-Year-1-Semester-1
-Bachelor of Computer Sciene (Data Engineering) : Year 1 : Semester 1 
+# SECPH-1
+Bachelor of Computer Sciene (Data Engineering) : Year 1/Semester 1 
 
 List Of Subjects :
 * <a href="https://github.com/haani1224/UTM-Year-1-Semester-1/tree/main/technology-and-information-systems">Technology & Information System</a>
