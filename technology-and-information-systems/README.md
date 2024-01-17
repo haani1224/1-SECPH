@@ -45,7 +45,7 @@ This newsletter is based on our industry visit at Petronas and Huawei at Kuala L
 <img src=https://github.com/haani1224/UTM-Year-1-Semester-1/assets/148327353/7b5ccda6-127e-4567-b952-41ae97937483 alt="Huawei" width="260" height="260">
 <details>
 <summary>Reflection:</summary>
-I was really satisfied with these visits because it gave me the opportunities to meet with Petronas's head of Software Engineering and Infrastructure Services department and learn more about careers in ICT field but I was regreted that the time for the visit is limited and very short. The most significant thing I learned, in my opinion, is how crucial it is to be able to do self-learning since technology is always advancing and getting better over time, and new technology is continually coming out.</details>
+I was grateful that these trips allowed me to meet with the head of Petronas's department of Software Engineering and Infrastructure Services and learn more about career options in the ICT industry, but I was disappointed by the visit's limited and short duration. The most significant thing I learned, in my opinion, is how crucial it is to be able to do self-learning since technology is always advancing and getting better over time, and new technology is continually coming out.</details>
 
 ## Lab Work
 * PC Assemble (22/11/2023)
