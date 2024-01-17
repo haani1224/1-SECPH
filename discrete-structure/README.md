@@ -7,17 +7,21 @@ This course introduces students to the principles and applications of discrete s
 * Chapter 3 : Counting Methods and Probability
 * Chapter 4 : Graph Theory
 * Chapter 5 : Finite Automata 
-
+<br>
 ## Assignments
 [Assignment 1](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/discrete-structure/Assignment%201%20Discrete%20Structure.pdf)<br>
-This assignment's question consist of chapter 1, Set Theory and Logic and also chapter 2, Relations and Functions.
-
+This assignment's question consist of chapter 1 :
+* 1.1 Set and Subset
+* 1.2 Operation on Set
+* 1.3 Fundamental and Elements of Logic
+* 1.4 Quantifiers and Proof Technique
+<br> 
 [Assignment 2](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/discrete-structure/Assignment%202%20Discrete%20Structure.pdf)<br>
 This assignment's question consist of chapter 2 :
 * 2.1 Relation
 * 2.2 Function
 * 2.3 Recurrrence Relation
-
+<br>
 [Assignment 3](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/discrete-structure/Assignment%203%20Discrete%20Structure.pdf)<br>
 This assignment cover the topics from chapter 3 and chapter 4 :
 * 3.4 Pigeonhole
