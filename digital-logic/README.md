@@ -20,12 +20,12 @@ Digital electronics is the foundation of all microprocessor-based systems found 
 
 ### Lab 2 : Combinational Logic Circuit (Software Deeds)
 <img src=https://github.com/haani1224/UTM-Year-1-Semester-1/assets/148327353/7a55ee61-a340-49e0-820a-ac1b131c480c alt="Lab 2" width="450" height="260"><br>
-Tap [here]() to see lab report for lab 2.
+Tap [here](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/digital-logic/Lab%202%20Digital%20Logic%2028-12-23.pdf) to see lab report for lab 2.
 
 
 ### Lab 3 : Sequential Logic Circuit (Counter)
 <img src=https://github.com/haani1224/UTM-Year-1-Semester-1/assets/148327353/34d2e5d6-8adc-4f9d-9d9d-beec63bf6a3a alt="Lab 3" width="260" height="450"><br>
-Tap [here]() to see lab report for lab 3.
+Tap [here](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/digital-logic/Lab%203%20Digital%20Logic%2011-01-24.pdf) to see lab report for lab 3.
 
 
 
