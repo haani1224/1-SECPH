@@ -13,7 +13,7 @@ This course will introduce students to various aspects of IS/IT such as hardware
 
 ## Industry Visit and Talk
 * 23/10/2023 - Career Development Talk By Habib from GetMe Hired
-* 28/10/2023 - Industry Talk From PPG
+* 28/10/2023 - Industry Talk From PPG (Greet&Meet'23)
 * 14/11/2023 - Industry Talk 1 : Overview of ICT Jobs in Clarity Techworks
 * 17/11/2023 - Industry Visit at Petronas and Huawei
 * 5/12/2023 - Industry Talk from UTM Digital
