@@ -17,7 +17,7 @@ This poster is based on the first assignment which is the case study report. In 
 <a href="https://github.com/haani1224/SECPH-1/blob/main/Intergrity-and-anti-corruption-course/T2b-PosterPR05.pdf" alt="Poster">View Poster</a>
 
 ### Assignment 3 : Public Service Announcement (PSA) Video
-The purpose of this short video that my group has made is to raise awareness about AI use in society, especially among students in this generation. The application we used for this video is Powtoon.<br />
+The purpose of this short video that my group has made is to raise awareness about AI use in society, especially among students in this generation. The application we used for this video is Plotagon.<br />
 <a href="https://youtu.be/edUKVwfInE8?si=FM97YnBTASDpUh6T" alt="Video">View Video</a>
 
 ### Assignment 4 : Micro-Camera Presentation
