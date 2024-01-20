@@ -20,7 +20,7 @@ This poster is based on the first assignment which is the case study report. In 
 The purpose of this short video that my group has made is to raise awareness about AI use in society, especially among students in this generation. The application we used for this video is Powtoon.<br />
 <a href="https://youtu.be/edUKVwfInE8?si=FM97YnBTASDpUh6T" target="_blank">View Video</a>
 
-Assignment 4 : Micro-Camera Presentation
+### Assignment 4 : Micro-Camera Presentation
 For this assignment, we as a group need to discuss the advantages and disadvantages of science and technology tools that has been created nowadays.Therefore, we decided to choose a micro camera because it is a tool that is commonly used in the medical field but is also used to stalk and spy on others secretly.<br />
 <a href="https://github.com/haani1224/SECPH-1/blob/main/Intergrity-and-anti-corruption-course/PR05-Module3Ac01.pdf" target="_blank">View Presentaion</a>
 
