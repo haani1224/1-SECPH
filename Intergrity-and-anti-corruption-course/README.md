@@ -10,7 +10,6 @@ This course highlights the main core of UTM which is the driving force to creati
 ## Assignments :
 ### Assignment 1 : Corruption Case Study Report
 For this assignment, me and my teammate work on a real-life corruption case that has done to discuss further the reason corruption happened and also the effects of corruption to our country in the past, present, and future.<br />
-<a href="https://github.com/haani1224/SECPH-1/blob/main/Intergrity-and-anti-corruption-course/T2a-Kajian%20KesPR05.pdf" alt="Report">View Report</a>
 
 ### Assignment 2 : Corruption Case Study Poster
 This poster is based on the first assignment which is the case study report. In this poster, we represent the information graphically for easy read including the result our questionnaire that was conducted online using the Google Form platform.<br />
