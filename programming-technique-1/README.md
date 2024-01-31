@@ -19,4 +19,4 @@ This assignment's task is to draw a flowchart based on the problem given. Two di
 This assignment's task is to write two codes based on the assignment 1's flowchart and also to redraw the flowchart appropiately. Two different codes were created for two different problems.<br/>
 [Part 1](https://github.com/haani1224/UTM-Year-1-Semester-1/blob/main/programming-technique-1/Assignment%202%20part%201%20Programming%20Technique%201.cpp) | [Part 2](https://github.com/haani1224/SECPH-1/blob/main/programming-technique-1/Assignment%202%20part%202%20Programming%20Technique%201.cpp)
 
-### Assignment 3 : [.cpp file format]()
+<!-- ### Assignment 3 : [.cpp file format]() -->
